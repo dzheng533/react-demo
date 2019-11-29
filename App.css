@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #334abd;
+  min-height: 60px;
+  
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  -webkit-app-region: drag;
+}
+
+.App-header .but{
+  background-color: #334abd;
+  min-height: 60px;
+  
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  -webkit-app-region: no-drag;
+}
+
+.App-link {
+  color: #09d3ac;
+}
